@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **personal website**
+- 🔭 I’m currently working on **java project**
 
-- 🌱 I’m currently learning **react,robotics,AI**
+- 🌱 I’m currently learning **Reactjs,AI**
 
 - 👯 I’m looking to collaborate on **web designing**
 
-- 💬 Ask me about **HTML AND CSS**
+- 💬 Ask me about **HTML,CSS,Javascript,C,Core java**
 
 - 📫 How to reach me **harigeethamneethu02@gmail.com**
 
-- ⚡ Fun fact **i'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
