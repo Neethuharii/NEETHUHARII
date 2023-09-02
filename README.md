@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/neethu_hari" target="blank"><img src="https://img.shields.io/twitter/follow/neethu_hari?logo=twitter&style=for-the-badge" alt="neethu_hari" /></a> </p>
 
-- 🌱 I’m currently learning more backend concepts
+-Currently I'm learning more backend concepts
 
-- 💬 Ask me about **HTML,CSS,C,java,javascript,git and counting...!**
+-Talk to me about technology
 
-- 📫 How to reach me **harigeethamneethu02@gmail.com,https://www.linkedin.com/public-profile/settings**
-
-- ⚡ Fun fact **i'm funny**
+REACT JS| JAVASCRIPT | HTML | CSS | JAVA | C | PYTHON
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
