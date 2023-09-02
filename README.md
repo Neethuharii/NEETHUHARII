@@ -1,9 +1,10 @@
-<h1>👋 Hi, I'm Neethu Hari</h1>
-<h3>I'm a web developer</h3>
+<h3>💼 👋 Hi, I'm Neethu Hari</h1>
 
--Currently I'm learning more backend concepts
+<h3>💼 I'm a web developer</h3>
 
--Talk to me about technology
+💼 Currently I'm learning more backend concepts
+
+💼 Talk to me about technology
 
 REACT JS| JAVASCRIPT | HTML | CSS | JAVA | C | PYTHON
 
