@@ -1,5 +1,5 @@
-<h1 align="center"> 👋 Hi, I'm Neethu Hari</h1>
-<h3 align="center">I'm a web developer</h3>
+<h1>👋 Hi, I'm Neethu Hari</h1>
+<h3>I'm a web developer</h3>
 
 -Currently I'm learning more backend concepts
 
