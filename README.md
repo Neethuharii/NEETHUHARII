@@ -9,6 +9,10 @@
 💡 My interests include backend development, system design, and full-stack project architecture.  
 📫 Reach me at **neethuhari671@gmail.com**
 
+Every project taught me patience, problem-solving, and the joy of building something meaningful.  
+If you enjoy my work and want to support me, you can **[buy me a coffee ☕](https://www.buymeacoffee.com/neethuhari)** — it keeps me motivated to learn and create more! 💛  
+
+
 ---
 
 ### 🛠️ Languages and Tools  
