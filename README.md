@@ -9,11 +9,7 @@
 💡 My interests include backend development, system design, and full-stack project architecture.  
 📫 Reach me at **neethuhari671@gmail.com**
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/neethuhari" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="160" />
-  </a>
-</p>
+
 
 ### 🛠️ Languages and Tools  
 <p align="left">
