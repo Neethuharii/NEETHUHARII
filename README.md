@@ -52,4 +52,9 @@
 ✨ *“Code with passion, learn with purpose.”*  
 ⭐️ From [Neethu Hari](https://github.com/neethuhari)
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/neethuhari" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="100" />
+  </a>
+</p>
 
