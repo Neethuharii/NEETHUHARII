@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Neethu Hari</h1>
-<h3 align="center">💻 Software Developer | Java & Spring Boot Enthusiast</h3>
+<h3 align="center">💻 Software Developer </h3>
 
 ---
 
 ### 🌟 About Me  
-🚀 I'm a passionate **Software Developer** who loves building efficient and scalable applications using **Java**, **Spring Boot**, and **MySQL**.  
+🚀 I'm a passionate **Software Developer** who loves building efficient and scalable applications.  
 🎯 I enjoy exploring new technologies, solving problems, and continuously learning to improve my craft.  
 💡 My interests include backend development, system design, and full-stack project architecture.  
 📫 Reach me at **neethuhari671@gmail.com**
